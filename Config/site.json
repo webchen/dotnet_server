@@ -1,0 +1,14 @@
+﻿{
+  "main": {
+    "Domain": "localhost",
+    "Port": "8030",
+    "RootPath": "I:\\dotnet_server\\www",
+    "IndexFile": "index.html"
+  },
+  "wx": {
+    "Domain": "localhost",
+    "Port": "8030",
+    "RootPath": "I:\\dotnet_server\\www",
+    "IndexFile": "index.html"
+  }
+}

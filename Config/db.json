@@ -1,0 +1,8 @@
+{
+  "wx": {
+    "Type": "mysql",
+    "ConnStr": "Data Source=localhost;Allow Zero Datetime=true;Charset=utf8;Database=db;User ID=root;Password=dbdb;pooling=true;SslMode=None",
+    "MaxPool": "20",
+    "Debug": true
+  }
+}
